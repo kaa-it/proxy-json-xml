@@ -1,0 +1,4 @@
+{
+    "external_base_url": "http://127.0.0.1:8234/api",
+    "internal_base_url": "http://127.0.0.1:8111/api"
+}
